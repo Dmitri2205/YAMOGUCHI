@@ -43,7 +43,7 @@ header .usageInfo img{display:inline-block;width:75%;position:relative;top:-110p
 .yourHealt__middle .middle__textBlock h2{letter-spacing:.1px;font-size:56px}
 .yourHealt__middle .middle__textBlock p{font-size:22px;margin:14% auto}
 .yourHealt__middle .middle__textBlock button{display:inline-block;width:69%;height:60px;background-color:#cc1d1d;color:#fff;margin-bottom:10%;border:none;border-radius:5px;font-size:1em}
-.yourHealt__middle #modal{display:none;width:50%;height:110%;margin:auto;position:absolute;top:0;left:0;right:0;bottom:0;background-color:#ececec;text-align:center;border-radius:5px;-webkit-transition:opacity .8s;transition:opacity .8s}
+.yourHealt__middle #modal{display:none;width:60%;height:130%;margin:auto;position:absolute;top:0;left:0;right:0;bottom:0;background-color:#ececec;text-align:center;border-radius:5px;-webkit-transition:opacity .8s;transition:opacity .8s}
 @-webkit-keyframes apearence{
 0%{opacity:0}
 100%{opacity:1}
@@ -61,8 +61,9 @@ header .usageInfo img{display:inline-block;width:75%;position:relative;top:-110p
 100%{opacity:0}
 }
 .yourHealt__middle #modal h2{font-size:46px;margin-top:88px}
-.yourHealt__middle #modal table{width:100%;text-align:left;margin:5% auto 0 7%}
-.yourHealt__middle #modal table td{margin:0 auto}
+.yourHealt__middle #modal table{width:90%;text-align:left;margin:5% auto 0 auto}
+.yourHealt__middle #modal table td{padding-bottom:13px;font-size:18px}
+.yourHealt__middle #modal table td:last-child{font-weight:700}
 .yourHealt__middle #modal span{display:inline-block;width:30px;height:30px;background-color:#cc1d1d;border-radius:50%;position:absolute;top:20px;right:30px}
 .yourHealt__middle #modal span:before{display:inline-block;content:' ';width:20px;height:1px;background-color:#000;position:relative;top:6%;left:0;border:1px solid #000;-webkit-transform:rotateZ(45deg);transform:rotateZ(45deg);border-radius:5px}
 .yourHealt__middle #modal span:after{display:inline-block;content:' ';width:20px;height:1px;background-color:#000;position:relative;top:-53%;left:0;border:1px solid #000;-webkit-transform:rotateZ(-45deg);transform:rotateZ(-45deg);border-radius:5px}

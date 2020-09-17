@@ -293,8 +293,8 @@ header {
 		}
 		#modal{
 			display: none;
-			width: 50%;
-			height: 110%;
+			width: 60%;
+			height: 130%;
 			margin:auto;
 			position: absolute;
 			top: 0;
@@ -324,11 +324,17 @@ header {
 				margin-top: 88px;
 			}
 			table{
-				width: 100%;
+				width: 90%;
 				text-align: left;
-				margin: 5% auto 0 7%;
+				margin: 5% auto 0 auto;
+				tr{
+				}
 				td{
-					margin: 0 auto;
+					padding-bottom: 13px;
+					font-size: 18px;
+					&:last-child{
+						font-weight: bold;
+					}
 				}
 			}
 			span{
