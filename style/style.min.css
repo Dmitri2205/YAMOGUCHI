@@ -35,7 +35,7 @@ header .usageInfo img{display:inline-block;width:75%;position:relative;top:-110p
 .yourHealt__top{display:block;width:100%;height:auto;position:relative;top:0;left:0}
 .yourHealt__top video{width:100%;position:absolute;top:0;left:0;z-index:-1}
 .yourHealt__top .top__text{display:block;width:49%;color:#fff;margin-left:15%;padding:5% 0 9.8% 0;position:relative;top:0;left:0;z-index:0}
-.yourHealt__top .top__text h1{width:100%;font-size:56px;margin-bottom:34px}
+.yourHealt__top .top__text h2{width:100%;font-size:56px;margin-bottom:34px}
 .yourHealt__top .top__text p{font-size:22px;margin:0}
 .yourHealt__middle{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;width:100%;background-color:#acacac;position:relative;top:0;left:0}
 .yourHealt__middle img{width:49%}
@@ -60,7 +60,7 @@ header .usageInfo img{display:inline-block;width:75%;position:relative;top:-110p
 0%{opacity:1}
 100%{opacity:0}
 }
-.yourHealt__middle #modal h1{font-size:46px;margin-top:88px}
+.yourHealt__middle #modal h2{font-size:46px;margin-top:88px}
 .yourHealt__middle #modal table{width:100%;text-align:left;margin:5% auto 0 7%}
 .yourHealt__middle #modal table td{margin:0 auto}
 .yourHealt__middle #modal span{display:inline-block;width:30px;height:30px;background-color:#cc1d1d;border-radius:50%;position:absolute;top:20px;right:30px}
