@@ -61,7 +61,7 @@ header .usageInfo img{display:inline-block;width:75%;position:relative;top:-110p
 100%{opacity:0}
 }
 .yourHealt__middle #modal h2{font-size:46px;margin-top:88px}
-.yourHealt__middle #modal table{width:90%;text-align:left;margin:5% auto 0 auto}
+.yourHealt__middle #modal table{width:70%;text-align:left;margin:5% auto 0 auto}
 .yourHealt__middle #modal table td{padding-bottom:13px;font-size:18px}
 .yourHealt__middle #modal table td:last-child{font-weight:700}
 .yourHealt__middle #modal span{display:inline-block;width:30px;height:30px;background-color:#cc1d1d;border-radius:50%;position:absolute;top:20px;right:30px}
